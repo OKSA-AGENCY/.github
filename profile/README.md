@@ -1,6 +1,7 @@
 ## Hi there 👋 Welcome To OKSA-AGENCY
 
 ### Your Next Software Development Agency
+![javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview](https://user-images.githubusercontent.com/60319809/173196023-93dd7551-ea59-40e2-bae5-07b827b05808.jpg)
 
 ### Connect With Us ❤
 <p>
