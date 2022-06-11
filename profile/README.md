@@ -14,6 +14,6 @@
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://oksa-agency.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=facebook&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=FACEBOOK&color=23555f&style=plastic&logo=facebook&logo-color=white"/>
   </a>
 </p>
